@@ -1,0 +1,27 @@
+
+.b-dropzone__preview__edit {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  border: none;
+  background: #00000070;
+  color: #fff;
+  z-index: 10;
+  height: 20px;
+  border-radius: 1000px;
+  text-align: left;
+  padding: 0 28px 0 10px;
+}
+.b-dropzone__preview__edit .g-icon {
+  font-size: 18px;
+  position: absolute;
+  right: 0px;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.placeholder-preview{position:static !important;height:auto !important;vertical-align:top;max-height:calc(100vh - 100px)}.placeholder-preview>img{height:auto}.no-placeholder-preview:before{content:'';display:block;padding-top:50%}.video-js-placeholder-wrapper+.video-js{position:absolute !important}video.vjs-tech{position:absolute;width:100%}
+
+
+/*# sourceMappingURL=settings.css.map?rev=202008311040-5a7dcf7da1*/
